@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashyam S Mitra</h1>
 <h3 align="center">A passionate full stack web developer with focus on ai integrations from India.</h3>
 
-- 🔭 I’m currently working on [CareSync](https://care-sync-taupe.vercel.app/)
+- 🔭 I’m currently working on [JobAgent]("An agentic ai agent that scans the internet for jobs and auto applies for you" )
 
 - 🌱 I’m currently learning **Ai and ML with slight focus on Devops**
 
