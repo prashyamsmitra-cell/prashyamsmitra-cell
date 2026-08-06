@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=e94560&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FLLM+Engineer+%F0%9F%A4%96;Healthcare+%26+Civic+Tech+Builder+%F0%9F%8C%8D;Next.js+%7C+React+%7C+Node.js+Expert;Building+Scalable+Products+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=e94560&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FLLM+Engineer+%F0%9F%A4%96;Healthcare+%26+Civic+Tech+Builder+%F0%9F%8E%8D;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;Building+Scalable+Products+%F0%9F%8E%AF" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -19,7 +19,7 @@
 <!-- About Section -->
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -27,9 +27,9 @@
 name:       Prashyam Sankar Mitra
 role:       Full Stack & AI/LLM Engineer
 location:   Kolkata, India 🇮🇳
-education:  B.Tech Computer Science (2023-2027)
-            Techno India University
-status:     Software Developer Intern @ Exide Industries 🔥
+education:  Final Year B.Tech Computer Science
+            Techno India University (2023-2027)
+status:     Building Production-Ready Products 🔥
 
 passion:
   - Building scalable full-stack applications
@@ -38,25 +38,24 @@ passion:
   - Shipping production-ready products fast
 
 currently:
-  working:   "Exide Industries - Software Development"
-  building:  "CareSync, CVAnalyzer, Aura Analyzer, Sahayak AI"
-  learning:  "Advanced System Design & LLM Architecture"
-  goal:      "Landing Full-Stack role @ Cognizant"
+  building:  "CareSync, CVAnalyzer, Visitor Management System, Personal Portfolio"
+  learning:  "System Design, Docker, Azure, LLM Engineering"
+  goal:      "Landing a Full Stack / AI Software Engineer role"
 
 expertise:
-  ai_llm:    "Claude API, Gemini 2.0, LangChain, RAG"
-  frontend:  "Next.js 15, React, Framer Motion, GSAP"
+  ai_llm:    "Gemini 2.0, Claude API, LangChain, RAG"
+  frontend:  "React, Next.js 15, Framer Motion, GSAP, Tailwind CSS"
   backend:   "Node.js, Express, Python, FastAPI"
   databases: "PostgreSQL, Supabase, Firebase, MongoDB"
-  devops:    "Vercel, Render, Docker, GitHub Actions"
+  devops:    "Docker, Vercel, Render, Azure, GitHub Actions"
 ```
 
 </td>
-<td width="42%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/QaMcXK7nDMF76/giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
+<td width="50%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZK7DsqI/giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
   <br/><br/>
-  <a href="https://prashyam-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-prashyam-portfolio.vercel.app-e94560?style=for-the-badge&labelColor=1a1a2e"/>
+  <a href="https://prashyam-portfolio-frontend.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-prashyam-portfolio-frontend.vercel.app-e94560?style=for-the-badge&labelColor=1a1a2e"/>
   </a>
   <br/>
   <a href="mailto:prashyam.dev@gmail.com">
@@ -107,9 +106,9 @@ expertise:
 
 **Tech Stack:** React · Vite · Node.js/Express · Python FastAPI · PostgreSQL · Supabase · Gemini 2.0 · Twilio · Vercel · Render
 
-**📍 Deployment:** [CareSync Live](https://caresync-vercel.app) | Backend: Render | AI Service: Render | Database: Supabase  
-**📊 SE Lab Documentation:** Gantt Charts · Feasibility Studies · UAT Scripts  
-**📌 Status:** ✅ Production Deployed | University SE Lab Project
+**📍 Deployment:** [CareSync Live](#) | Backend: Render | AI Service: Render | Database: Supabase  
+**📊 Documentation:** Gantt Charts · Feasibility Studies · UAT Scripts  
+**📌 Status:** ✅ Production Ready Healthcare Management Platform
 
 ---
 
@@ -128,7 +127,7 @@ expertise:
 - Multi-format resume support (PDF, DOCX)
 
 **🤖 AI Engine**
-- Claude API for deep resume analysis
+- Gemini 2.0 for deep resume analysis
 - Semantic understanding of skills
 - Industry-specific recommendations
 
@@ -140,139 +139,62 @@ expertise:
 - Node.js backend for file processing
 - PostgreSQL for analytics
 - Real-time feedback with WebSockets
-- Claude API integration
+- Gemini API integration
 
 </td>
 </tr>
 </table>
 
-**Tech Stack:** Next.js 15 · TypeScript · Framer Motion · Claude API · PostgreSQL · Node.js
+**Tech Stack:** Next.js 15 · TypeScript · Framer Motion · Gemini API · PostgreSQL · Node.js
 
 **🎯 Use Cases:** Job seekers, HR teams, recruiter platforms  
 **📌 Status:** ✅ MVP Complete | Portfolio Project
 
----
-
-### 3. 🎮 **Aura Analyzer** — Gamified Resume Intelligence Platform
-> *Cinematic Scroll-Driven Resume Intelligence with Ranking System*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎨 UX Design**
-- Seven interactive stages with scroll triggers
-- SS–C tier ranking system (visual feedback)
-- Cinematic scroll-narrative architecture
-- Smooth animations via Framer Motion & GSAP
-- Real-time resume analysis as you scroll
-
-**🧠 Intelligence Engine**
-- Deep resume analysis powered by Claude
-- Skill extraction & recommendations
-- Career path suggestions
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Technical Stack**
-- React + Framer Motion scroll interactions
-- GSAP ScrollTrigger animations
-- Claude API backend
-- Real-time data transformation
-- Data-driven UI with scroll context
-- Vercel serverless deployment
-
-</td>
-</tr>
-</table>
-
-**Tech Stack:** React · Framer Motion · GSAP · Claude API · Node.js · Tailwind CSS · Vercel
-
-**🌐 Demo:** Scroll-driven portfolio experience  
-**📌 Status:** ✅ Live | Personal Project
+**[View Demo](#) | [GitHub](#)**
 
 ---
 
-### 4. 🤖 **Sahayak AI** — Civic Tech Welfare Scheme Discovery
-> *Indian Government Scheme Discovery Platform in Multiple Languages*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎯 Impact**
-- Help Indian citizens discover eligible welfare schemes
-- Multi-language support (Hindi, Bengali, Tamil, etc.)
-- Simple eligibility checker
-- Direct application links & documentation
-
-**🌍 Features**
-- 100+ Indian government welfare schemes
-- Semantic search via AI
-- Chatbot for scheme inquiries
-- Document requirement guidance
-
-</td>
-<td width="50%" valign="top">
-
-**💻 Stack**
-- React frontend
-- Node.js/Express backend
-- PostgreSQL database
-- Gemini AI for multilingual support
-- Replit deployment
-- Responsive mobile design
-
-</td>
-</tr>
-</table>
-
-**Tech Stack:** React · Node.js · PostgreSQL · Gemini API · Replit · Tailwind CSS
-
-**🌐 Deployment:** [Sahayak AI on Replit](https://sahayak-ai.replit.dev)  
-**🎯 Social Impact:** Civic tech for underserved communities  
-**📌 Status:** ✅ Live & Production Ready
-
----
-
-### 5. 🎨 **BITART** — Full-Stack GitHub Profile Designer SaaS
-> *Professional Monorepo: Custom GitHub Profile Generator with ASCII/SVG Engines*
+### 3. 🏢 **Visitor Management System** — Enterprise QR & Approval System
+> *Production QR-Based Visitor Entry & Admin Dashboard with Email Notifications*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🎯 Features**
-- Custom GitHub profile README generator
-- ASCII art & badge builders
-- SVG skill icons renderer
-- Template library with 50+ designs
-- One-click GitHub deployment
+- QR code generation for visitor entry
+- Visitor approval workflow
+- Admin dashboard with analytics
+- Email notifications
+- Mobile-responsive design
+- Real-time visitor tracking
 
-**🏗️ Architecture**
-- Monorepo structure
-- Frontend + Backend separation
-- Custom rendering engines
-- Database for saved profiles
+**📱 User Flows**
+- Visitor registration & QR generation
+- Admin approval interface
+- Email notifications on approval/rejection
+- Dashboard analytics
 
 </td>
 <td width="50%" valign="top">
 
 **⚙️ Tech Stack**
-- **Frontend:** Next.js 15 + TypeScript
-- **Backend:** Fastify (high-performance)
-- **Engines:** Custom ASCII & SVG renderers
-- **Database:** PostgreSQL
-- **Deployment:** Vercel + Render
+- React frontend with Tailwind CSS
+- Express.js backend
+- PostgreSQL database
+- Supabase for auth & storage
+- Email service integration
+- Vercel & Render deployment
 
 </td>
 </tr>
 </table>
 
-**Tech Stack:** Next.js 15 · Fastify · PostgreSQL · TypeScript · Tailwind CSS · Vercel
+**Tech Stack:** React · Express.js · PostgreSQL · Supabase · Tailwind CSS · Vercel
 
-**📌 Status:** ✅ MVP | Full GitHub Profile Designer Platform
+**📌 Status:** ✅ Production Ready | [Deployed](#)
+
+**[Live Demo](#) | [GitHub](#)**
 
 ---
 
@@ -280,8 +202,8 @@ expertise:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgresql,supabase,firebase,mongodb,redis,tailwind,git,docker,vercel,render" /><br/>
-  <img src="https://skillicons.dev/icons?i=github,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=postgresql,supabase,firebase,mongodb,tailwind,git,docker,vercel,render,azure" /><br/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
 </p>
 
 <div align="center">
@@ -290,28 +212,12 @@ expertise:
 |---|---|
 | **Frontend** | React, Next.js 15, TypeScript, Tailwind CSS, Framer Motion, GSAP |
 | **Backend** | Node.js, Express, Python, FastAPI, REST APIs, WebSockets |
-| **AI & LLM** | Claude API, Google Gemini 2.0, LangChain, Prompt Engineering |
-| **Database** | PostgreSQL, Supabase, Firebase, MongoDB, Redis |
+| **AI & LLM** | Gemini 2.0, Claude API, LangChain, Prompt Engineering |
+| **Database** | PostgreSQL, Supabase, Firebase, MongoDB |
 | **Auth & Security** | JWT, Supabase Auth, Twilio OTP, OAuth |
-| **DevOps & Tools** | Vercel, Render, Docker, GitHub Actions, Git, Linux |
-| **Animation & UX** | Framer Motion, GSAP ScrollTrigger, Lenis.js, React Three Fiber |
+| **DevOps & Tools** | Docker, Vercel, Render, Azure, GitHub Actions, Git |
+| **Animation & UX** | Framer Motion, GSAP ScrollTrigger, Lenis.js |
 | **File Processing** | PDF parsing, Image optimization, Document management |
-
-</div>
-
----
-
-## 🚀 Portfolio Projects Overview
-
-<div align="center">
-
-| 🏆 Project | 🧩 Tech Stack | 📊 Status | 🔗 Demo | 🎯 Category |
-|-----------|---------------|-----------|---------|-----------|
-| 🏥 **CareSync** | React, Node.js, Python, Supabase, Gemini 2.0 | ✅ Deployed | [Live](https://caresync.vercel.app) | Healthcare Tech |
-| 📄 **CVAnalyzer** | Next.js, Claude API, PostgreSQL | ✅ Complete | [View](https://cvanalyzer.vercel.app) | AI Resume Tool |
-| 🎮 **Aura Analyzer** | React, Framer Motion, Claude API | ✅ Live | [Demo](https://aura-analyzer.vercel.app) | Gamified UX |
-| 🤖 **Sahayak AI** | React, Node.js, PostgreSQL | ✅ Live | [Visit](https://sahayak-ai.replit.dev) | Civic Tech |
-| 🎨 **BITART** | Next.js, Fastify, PostgreSQL | ✅ MVP | [GitHub](https://github.com/prashyam/bitart) | SaaS Platform |
 
 </div>
 
@@ -324,7 +230,6 @@ expertise:
 | Qualification | Institution | Year | Details |
 |---|---|---|---|
 | **B.Tech Computer Science** | Techno India University, Kolkata | 2023–2027 | Full-Stack & AI Focus |
-| **Software Developer Intern** | Exide Industries, Kolkata | 2024–Present | Backend Development |
 | **Full-Stack Web Development** | Self-Paced Learning | Ongoing | React, Node.js, AI/LLM Integration |
 
 </div>
@@ -334,11 +239,14 @@ expertise:
 ## 💼 Professional Experience
 
 ### **Software Developer Intern** @ Exide Industries
-**Kolkata | 2024 – Present**
-- Developing backend services with Node.js and Express
-- Working with PostgreSQL for scalable database design
-- Integrating third-party APIs and services
-- Collaborating on full-stack feature development
+**Kolkata | 2024 – 2025**
+
+- Developed backend APIs using Express.js and Node.js
+- Implemented PostgreSQL database models for scalability
+- Built visitor management features with QR code integration
+- Integrated email automation for notifications
+- Collaborated with cross-functional teams on feature development
+- Deployed applications on Vercel and Render
 
 ---
 
@@ -346,45 +254,16 @@ expertise:
 
 <div align="center">
 
-- ✅ **5+ Production-Deployed Full-Stack Applications** across healthcare, civic tech, and SaaS
-- ✅ **AI/LLM Integration Expert** — Claude API, Gemini, prompt engineering
-- ✅ **Monorepo Architecture** — BITART full-stack SaaS platform
-- ✅ **Healthcare Record System** — CareSync with AI chatbot and secure file handling
-- ✅ **Cinematic UX Design** — Aura Analyzer with scroll-driven interactions
-- ✅ **Social Impact Project** — Sahayak AI helping Indian citizens discover welfare schemes
-- ✅ **SE Lab Certification** — Full documentation & UAT testing for CareSync
-- ✅ **Continuous Learning** — System design, design patterns, SOLID principles
+- ✅ **Production Full-Stack Applications** — CareSync, CVAnalyzer, Visitor Management System
+- ✅ **AI/LLM Integration** — Gemini 2.0 & Claude API integration across projects
+- ✅ **Healthcare Platform** — CareSync with real-time record sharing and AI chatbot
+- ✅ **Resume Intelligence Tool** — CVAnalyzer MVP with ATS optimization
+- ✅ **Visitor Management System** — QR-based entry with admin dashboard
+- ✅ **JWT & Security** — Secure authentication across all projects
+- ✅ **OTP Verification** — Twilio SMS integration for verification flows
+- ✅ **Responsive UI** — Mobile-first design across all applications
 
 </div>
-
----
-
-## 🎯 Career Goals & Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Near-Term Goals
-- **Land role @ Cognizant** — Full-Stack/Backend/AI Engineer
-- **Deepen system design knowledge** — microservices, databases, scalability
-- **Master LLM architecture** — RAG, fine-tuning, prompt engineering
-- **Ship CareSync v2** — enhanced features & mobile app
-- **Build 1000+ GitHub contributions** — consistent coding practice
-
-</td>
-<td width="50%" valign="top">
-
-### 🌟 Long-Term Vision
-- **Founding tech startup** in healthcare or civic tech
-- **Leading full-stack teams** on impactful products
-- **Contributing to open-source** AI/LLM ecosystem
-- **Mentoring junior developers** in full-stack development
-- **Building globally-deployed products** with 10K+ users
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -413,22 +292,6 @@ expertise:
 
 ---
 
-## 📚 Open Source & Contributions
-
-<div align="center">
-
-I actively contribute to open-source projects and love collaborating on:
-- **AI/LLM projects** — Claude integrations, prompt engineering
-- **Full-stack frameworks** — Next.js, Node.js tooling
-- **Healthcare tech** — medical data handling, privacy-first architecture
-- **Civic tech** — public good projects for underserved communities
-
-**Interested in collaborating?** Reach out — I love working on impactful products!
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -438,44 +301,11 @@ I actively contribute to open-source projects and love collaborating on:
   <a href="https://github.com/prashyamsmitra-cell">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/prashyamdev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
   <a href="mailto:prashyam.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://prashyam-portfolio.vercel.app">
+  <a href="https://prashyam-portfolio-frontend.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Website-00d4ff?style=for-the-badge&logo=web&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💡 Blog & Learning
-
-<div align="center">
-
-I regularly write about:
-- Full-stack development best practices
-- AI/LLM integration patterns
-- System design & scalability
-- Frontend animation techniques (GSAP, Framer Motion)
-- Healthcare tech architecture
-
-**[Read my blog](https://prashyam-blog.vercel.app)** for deep dives into these topics.
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<p align="center">
-  <a href="https://buymeacoffee.com/prashyam">
-    <img src="https://img.shields.io/badge/☕_Buy_me_a_coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-  </a>
-  <a href="https://github.com/sponsors/prashyamsmitra-cell">
-    <img src="https://img.shields.io/badge/💝_Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
   </a>
 </p>
 
@@ -502,6 +332,10 @@ I regularly write about:
 
 **Thanks for visiting! Star ⭐ if you find my work interesting — it means a lot!**
 
-**Currently open to:** Full-stack roles, AI/LLM engineering positions, startup collaborations
+**Open to:**
+- Full Stack Software Engineering Roles
+- Backend Development Roles
+- AI Engineering Opportunities
+- New Graduate & Internship Positions
 
 </div>
