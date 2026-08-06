@@ -150,7 +150,7 @@ expertise:
 **🎯 Use Cases:** Job seekers, HR teams, recruiter platforms  
 **📌 Status:** ✅ MVP Complete | Portfolio Project
 
-**[View Demo](#) | [GitHub](#)**
+**[View Demo](https://care-sync-taupe.vercel.app/) | [GitHub](https://github.com/prashyamsmitra-cell/CareSync)**
 
 ---
 
