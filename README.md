@@ -58,7 +58,7 @@ expertise:
     <img src="https://img.shields.io/badge/🌐_My_Portfolio-prashyam-portfolio-frontend.vercel.app-e94560?style=for-the-badge&labelColor=1a1a2e"/>
   </a>
   <br/>
-  <a href="mailto:prashyam.dev@gmail.com">
+  <a href="mailto:prashyamsmitra@gmail.com">
     <img src="https://img.shields.io/badge/📫_Contact_Me-prashyamsmitra@gmail.com-e94560?style=for-the-badge&labelColor=1a1a2e"/>
   </a>
   <br/>
