@@ -52,14 +52,14 @@ expertise:
 
 </td>
 <td width="50%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZK7DsqI/giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
+  <img src="https://media.giphy.com/media/SvckS22GWt4G6P9YmZ/giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
   <br/><br/>
   <a href="https://prashyam-portfolio-frontend.vercel.app">
     <img src="https://img.shields.io/badge/🌐_My_Portfolio-prashyam-portfolio-frontend.vercel.app-e94560?style=for-the-badge&labelColor=1a1a2e"/>
   </a>
   <br/>
   <a href="mailto:prashyam.dev@gmail.com">
-    <img src="https://img.shields.io/badge/📫_Contact_Me-prashyam.dev@gmail.com-e94560?style=for-the-badge&labelColor=1a1a2e"/>
+    <img src="https://img.shields.io/badge/📫_Contact_Me-prashyamsmitra@gmail.com-e94560?style=for-the-badge&labelColor=1a1a2e"/>
   </a>
   <br/>
   <a href="https://linkedin.com/in/prashyam-sankar-mitra">
