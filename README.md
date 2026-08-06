@@ -52,7 +52,7 @@ expertise:
 
 </td>
 <td width="50%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/SvckS22GWt4G6P9YmZ/giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
+  <img src="https://camo.githubusercontent.com/f87631aeabe54317626449ac948a45ec6650504e0d86fb1f8ed4d03968e52c20/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f323032322f31312f686972652d66756c6c2d737461636b2d646576656c6f70657273313534363530373437343331372d312e676966" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
   <br/><br/>
   <a href="https://prashyam-portfolio-frontend.vercel.app">
     <img src="https://img.shields.io/badge/🌐_My_Portfolio-prashyam-portfolio-frontend.vercel.app-e94560?style=for-the-badge&labelColor=1a1a2e"/>
