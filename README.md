@@ -106,7 +106,7 @@ expertise:
 
 **Tech Stack:** React · Vite · Node.js/Express · Python FastAPI · PostgreSQL · Supabase · Gemini 2.0 · Twilio · Vercel · Render
 
-**📍 Deployment:** [CareSync Live](https://care-sync-taupe.vercel.app/c) | Backend: Render | AI Service: Render | Database: Supabase  
+**📍 Deployment:** [CareSync Live](https://care-sync-taupe.vercel.app/) | Backend: Render | AI Service: Render | Database: Supabase  
 **📊 Documentation:** Gantt Charts · Feasibility Studies · UAT Scripts  
 **📌 Status:** ✅ Production Ready Healthcare Management Platform
 
