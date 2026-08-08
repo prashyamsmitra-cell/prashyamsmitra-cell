@@ -54,10 +54,6 @@ expertise:
 <td width="50%" align="center" valign="middle">
   <img src="https://camo.githubusercontent.com/f87631aeabe54317626449ac948a45ec6650504e0d86fb1f8ed4d03968e52c20/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f323032322f31312f686972652d66756c6c2d737461636b2d646576656c6f70657273313534363530373437343331372d312e676966" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
   <br/><br/>
-  <a href="https://prashyam-portfolio-frontend.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-prashyam-portfolio-frontend.vercel.app-e94560?style=for-the-badge&labelColor=1a1a2e"/>
-  </a>
-  <br/>
   <a href="mailto:prashyamsmitra@gmail.com">
     <img src="https://img.shields.io/badge/📫_Contact_Me-prashyamsmitra@gmail.com-e94560?style=for-the-badge&labelColor=1a1a2e"/>
   </a>
@@ -287,7 +283,7 @@ expertise:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashyamsmitra-cell&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" width="100%"/>
+  <img src="https://trophy.ryglcloud.net/?username=prashyamsmitra-cell&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" width="100%"/>
 </p>
 
 ---
