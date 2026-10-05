@@ -16,6 +16,13 @@
 
 ---
 
+<!-- ASCII Art Section -->
+<div align="center">
+  <img src="./ascii-art.svg" width="640" alt="ASCII art portrait of Prashyam Sankar Mitra" />
+</div>
+
+---
+
 <!-- About Section -->
 <table>
 <tr>
