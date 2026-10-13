@@ -45,7 +45,7 @@ passion:
   - Shipping production-ready products fast
 
 currently:
-  building:  "CareSync, CVAnalyzer, Visitor Management System, Personal Portfolio"
+  building:  "CareSync, CVAnalyzer, Personal Portfolio"
   learning:  "System Design, Docker, Azure, LLM Engineering"
   goal:      "Landing a Full Stack / AI Software Engineer role"
 
@@ -65,8 +65,12 @@ expertise:
     <img src="https://img.shields.io/badge/📫_Contact_Me-prashyamsmitra@gmail.com-e94560?style=for-the-badge&labelColor=1a1a2e"/>
   </a>
   <br/>
-  <a href="https://linkedin.com/in/prashyam-sankar-mitra">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-in/prashyam--sankar--mitra-0077B5?style=for-the-badge&labelColor=1a1a2e"/>
+  <a href="https://www.linkedin.com/in/prashyam-s-mitra-2b55ba2b5/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Prashyam_S_Mitra-0077B5?style=for-the-badge&labelColor=1a1a2e"/>
+  </a>
+  <br/>
+  <a href="https://portfolio-sand-two-572fq6jfdf.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-View_Live-00d4ff?style=for-the-badge&labelColor=1a1a2e"/>
   </a>
 </td>
 </tr>
@@ -74,7 +78,7 @@ expertise:
 
 ---
 
-## 🔥 Featured Projects — Production Deployed
+## 🔥 Featured Projects
 
 ### 1. 🏥 **CareSync** — Healthcare Record Management System
 > *AI-Powered Electronic Health Records Platform with Intelligent Chatbot*
@@ -158,7 +162,7 @@ expertise:
 ---
 
 ### 3. 🏢 **Visitor Management System** — Enterprise QR & Approval System
-> *Production QR-Based Visitor Entry & Admin Dashboard with Email Notifications*
+> *QR-Based Visitor Entry & Admin Dashboard with Email Notifications, built at Exide Industries*
 
 <table>
 <tr>
@@ -187,17 +191,14 @@ expertise:
 - PostgreSQL database
 - Supabase for auth & storage
 - Email service integration
-- Vercel & Render deployment
 
 </td>
 </tr>
 </table>
 
-**Tech Stack:** React · Express.js · PostgreSQL · Supabase · Tailwind CSS · Vercel
+**Tech Stack:** React · Express.js · PostgreSQL · Supabase · Tailwind CSS
 
-**📌 Status:** ✅ Production Ready | [Deployed](#)
-
-**[Live Demo](#) | [GitHub](#)**
+**📌 Status:** ✅ Built & delivered | Deployment since retired
 
 ---
 
@@ -298,16 +299,16 @@ expertise:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/prashyam-sankar-mitra">
+  <a href="https://www.linkedin.com/in/prashyam-s-mitra-2b55ba2b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/prashyamsmitra-cell">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:prashyam.dev@gmail.com">
+  <a href="mailto:prashyamsmitra@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://prashyam-portfolio-frontend.vercel.app">
+  <a href="https://portfolio-sand-two-572fq6jfdf.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-00d4ff?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
 </p>
